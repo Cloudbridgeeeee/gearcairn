@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for GearCairn.
 - Industry: Mechanical Engineering, Manufacturing, Machine Learning
 - Founder: Babajide Adeniran (Founder & CEO)
 - Co-founder: Chidera Okafor (Co-founder & CTO)
-- Contact: babajide@gearcairn.top
+- Contact: babajide@gearcairn.space
 - Business model: Managed asset subscriptions
 
 ## Stack

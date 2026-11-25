@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://gearcairn.top/sitemap.xml
+Sitemap: https://gearcairn.space/sitemap.xml
