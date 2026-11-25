@@ -1,0 +1,16 @@
+{
+  "name": "GearCairn",
+  "short_name": "GearCairn",
+  "description": "AI maintenance planning software that identifies recurring servicing requirements from approved industrial equipment histories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1013",
+  "theme_color": "#0e1013",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
